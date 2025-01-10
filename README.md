@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/dfe8f8fe-2598-4fcc-a560-3c112357a2de
 
 
 
-```markdown
+
 # Yallakora - Football Match Scraper
 
 A Python web scraper that retrieves football match details from Yallakora based on a user-provided date (MM/DD/YYYY). The scraper extracts tournament name, teams, scores, and match time, then saves the data in a CSV file. It uses the `requests` and `BeautifulSoup` libraries for web scraping.
